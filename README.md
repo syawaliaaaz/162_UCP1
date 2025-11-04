@@ -4,3 +4,5 @@ get kandang
 <img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/35cc2996-1a4e-4e0c-a1b1-a57869887935" />
 put kandang
 <img width="1920" height="1200" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/9b99bb80-777e-4fd3-b1b3-8389967f1e55" />
+delete kandang
+<img width="1920" height="1200" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/75fe2bae-8e1c-44da-a23d-e7d99959b5d0" />
