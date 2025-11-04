@@ -1,0 +1,10 @@
+import Module from "module"
+
+const path = require('path')
+
+module.exports = {
+    'config': path.resolve('config', 'config.js'),
+    'model-path': path.resolve('models'),
+    'seeder-path': path.resolve('seeders'),
+    'migrations-path': path.resolve('migrations')
+};
